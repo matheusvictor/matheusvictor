@@ -1,4 +1,4 @@
-### [PT-BR] Salve, quebrada! 👋
+### [PT-BR] Salve! 👋
 
 <div align="center">
   <a href="matheusvictor.github.io" target = "_blank">
@@ -11,9 +11,10 @@
 <!-- Program languages -->
 <div style="display: inline_block"><br>
   <!-- Icons from: https://devicon.dev/-->
-  <img align="center" alt="MV-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="MV-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="MV-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <img align="center" alt="MV-Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
+  <img align="center" alt="MV-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   
 </div>
 
