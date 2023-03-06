@@ -1,10 +1,10 @@
-### 👋[PT-BR] Salve! :: [EN] Hello! 
+### 👋[PT-BR] Salve! :: [EN] Hello!
 
 
 <div align="center">
   <a href="matheusvictor.github.io" target = "_blank">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusvictor&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusvictor&layout=compact&langs_count=7&theme=highcontrast"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusvictor&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusvictor&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
 
 ## <!-- Simple line -->
