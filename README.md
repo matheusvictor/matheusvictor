@@ -1,6 +1,6 @@
 ### 👋[pt-br] Salve! 
 
-Olá! Me chamo Matheus Victor (mas pode me chamar de Jack!). Sou **baiano** (exatamente: conterrâneo de Raul Seixas, Jorge Amado e Castro Alves), nascido na primeira capital do Brasil: [Salvador](https://pt.wikipedia.org/wiki/Salvador). Mas, vivi boa parte da minha vida em [Maragogige](https://www.instagram.com/aah_maragogipe/), uma cidadezinha do interior do Recôncavo baiano. Atualmente, curso o Bacharelado Interdisciplinar em Ciência e Tecnologia, e fui membro do grupo [Comunidades Virtuais](https://www.instagram.com/comunidadesvirtuais/).
+Me chamo Matheus Victor (mas pode me chamar de Jack!). Sou **baiano** (exatamente: conterrâneo de Raul Seixas, Jorge Amado e Castro Alves), nascido na primeira capital do Brasil: [Salvador](https://pt.wikipedia.org/wiki/Salvador). Mas, vivi boa parte da minha vida em [Maragogige](https://www.instagram.com/aah_maragogipe/), uma cidadezinha do interior do Recôncavo baiano. Atualmente, curso o Bacharelado Interdisciplinar em Ciência e Tecnologia (UFBA), e fui membro do grupo [Comunidades Virtuais](https://www.instagram.com/comunidadesvirtuais/).
 
 Curto as filosofias presentes no lado Software Livre da Força, me tornei entusiasta Linux e amante das práticas _open source_.
 
@@ -11,6 +11,12 @@ Personalidade: [INFJ-T](https://www.16personalities.com/infj-strengths-and-weakn
 ------
 
 ### 👋 [en-us] Hello!
+
+I'm Matheus Victor, but you can call me Jack! I'm from the first Brazil's capital: Salvador, Bahia (exactly: ... ). Current, I'm ...
+
+I'm a adventure nerd too! I has survive to traps, ... , dragons and others monsters. All with a d20 and good fellows's quests!
+
+Personality: [INFJ-T](https://www.16personalities.com/infj-strengths-and-weaknesses)
 
 ------
 
@@ -25,8 +31,8 @@ Personalidade: [INFJ-T](https://www.16personalities.com/infj-strengths-and-weakn
 <!-- Program languages -->
 <div style="display: inline_block"><br>
   <!-- Icons from: https://devicon.dev/-->
-  <img align="center" alt="MV-Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
   <img align="center" alt="MV-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="MV-Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
   <img align="center" alt="MV-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="TypeScript" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">    
   <img align="center" alt="MV-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">          
