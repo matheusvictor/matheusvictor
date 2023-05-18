@@ -2,8 +2,6 @@
 
 Me chamo Matheus Victor (mas pode me chamar de Jack!). Sou **baiano** (exatamente: conterrâneo de Raul Seixas, Jorge Amado e Castro Alves), nascido na primeira capital do Brasil: [Salvador](https://pt.wikipedia.org/wiki/Salvador). Mas, vivi boa parte da minha vida em [Maragogige](https://www.instagram.com/aah_maragogipe/), uma cidadezinha do interior do Recôncavo baiano. Atualmente, curso o Bacharelado Interdisciplinar em Ciência e Tecnologia (UFBA), e fui membro do grupo [Comunidades Virtuais](https://www.instagram.com/comunidadesvirtuais/).
 
-Curto as filosofias presentes no lado Software Livre da Força, me tornei entusiasta Linux e amante das práticas _open source_.
-
 Também sou nerd aventureiro nas horas vagas. Já sobrevivi a armadilhas, maldições, ogros, dragões e outros monstros. Tudo isso apenas com um d20 e bons companheiros de _quests_!
 
 Personalidade: [INFJ-T](https://www.16personalities.com/infj-strengths-and-weaknesses)
@@ -12,9 +10,9 @@ Personalidade: [INFJ-T](https://www.16personalities.com/infj-strengths-and-weakn
 
 ### 👋 [en-us] Hello!
 
-I'm Matheus Victor, but you can call me Jack! I'm from the first Brazil's capital: Salvador, Bahia (exactly: ... ). Current, I'm ...
+I'm Matheus Victor, but you can call me Jack! I'm from the first Brazil's capital: Salvador, Bahia (exactly: countryman of Raul Seixas, Jorge Amado and Castro Alves). Current, I'm bachelor's degree Science and Techonology (UFBA). I was part of the Comunidade Virtuais research group.
 
-I'm a adventure nerd too! I has survive to traps, ... , dragons and others monsters. All with a d20 and good fellows's quests!
+I'm a adventure nerd too! I has survive to traps, spells , dragons and others monsters. All it with a d20 and good fellows's quests!
 
 Personality: [INFJ-T](https://www.16personalities.com/infj-strengths-and-weaknesses)
 
